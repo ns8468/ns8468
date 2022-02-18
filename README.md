@@ -1,4 +1,8 @@
 ### Ohayo 💙
+#### An aspiring engineer who love manga and animes.
+Presently working on Upgrading Development and ML skills.
+
+
 ![alt text](https://github.com/ns8468/ns8468/blob/main/Nihal.png)
 
 <h3 align="left">Connect with me:</h3>
